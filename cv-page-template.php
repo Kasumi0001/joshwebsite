@@ -3,7 +3,6 @@
 Template Name: CV
 */
 ?>
-
 <?php require_once('page_header.php'); ?>
 <?php get_header(); /* Tells WordPress to include header.php */ ?>
 <div class="container-fluid maincontainer">
