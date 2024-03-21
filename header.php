@@ -65,7 +65,7 @@
         </div>
     </nav>
 <div class="tag">
-    <h1 class="tag">Games Design for the future</h1>
+    <h1>Games Design for the future</h1>
 </div> <!-- tag -->
 </div> <!-- container -->
 <?php wp_head(); ?> 
