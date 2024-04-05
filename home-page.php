@@ -27,14 +27,14 @@
         <a href="<?php the_field('readmore'); ?>" class="readmore">CONTINUE READING</a>     
     </div>
     <div class="col-md-4">
-        <img class="img-fluid" src="<?php the_field('articleimage');?>" alt="robot">
+        <img class="img-fluid" src="<?php the_field('articleimage2');?>" alt="robot">
         <h4 class="article-title"><?php the_field('articletitle'); ?></h4>
         <p class="date" ><?php the_field('articledate'); ?></p>
         <p class="article-p"><?php the_field('articleexcerpt'); ?> </p>
         <a href="<?php the_field('readmore'); ?>" class="readmore">CONTINUE READING</a>     
     </div>
     <div class="col-md-4">
-        <img class="img-fluid" src="<?php the_field('articleimage');?>" alt="mapping">
+        <img class="img-fluid" src="<?php the_field('articleimage3');?>" alt="mapping">
         <h4 class="article-title"><?php the_field('articletitle'); ?></h4>
         <p class="date" ><?php the_field('articledate'); ?></p>
         <p class="article-p"><?php the_field('articleexcerpt'); ?> </p>
